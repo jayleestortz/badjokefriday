@@ -10,7 +10,7 @@
     </p>
     <p>Updated last Wednesday, April 11 2018 @ 4:35 PM</p>
     <p>Click here to exit the homepage and learn more about the heart of JellyIndustries.</p>
-    <a href="/#/about">About Us</a>
+    <a href="/about">About Us</a>
     <img src="https://i.imgur.com/OvMZBs9.jpg" />
   </div>
 </template>
