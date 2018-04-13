@@ -7,7 +7,7 @@
         for supporting her and JellyIndusties.
          We are proud to serve you here.
     </p>
-    <a href="/#/">Home Page</a>
+    <a href="/">Home Page</a>
   </div>
 </template>
 
